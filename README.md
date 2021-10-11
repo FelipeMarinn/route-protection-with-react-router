@@ -2,7 +2,6 @@
 
 USE: 
 
- <Router>
     <div>
        <switch>
 
@@ -20,5 +19,6 @@ USE:
 
        </switch>
     </div> 
-</Router>
+
+
      
